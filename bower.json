@@ -1,0 +1,26 @@
+{
+  "name": "restapp",
+  "description": "An restful application sample",
+  "main": "server.js",
+  "authors": [
+    "Tom Yu"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Restful"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8"
+  }
+}

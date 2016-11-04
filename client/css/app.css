@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.pageHeader {
+  width: 100%;
+  background: lightgreen;
+}
+
+.pageFooter {
+  width: 100%;
+  background: orangered;
+}
